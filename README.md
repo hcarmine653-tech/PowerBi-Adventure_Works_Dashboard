@@ -2,7 +2,7 @@
 This Power BI dashboard provides a comprehensive view of sales, orders, returns, and customer behaviour for a bike and bike‑accessories business. It is designed to support fast, data‑driven decision‑making across operational, commercial, and customer‑facing teams.
 The report is organised into four interactive tabs, each offering a different analytical perspective.
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 ### 1. Executive Overview
 A high‑level summary designed for leadership and quick performance monitoring.
 This page includes key business KPIs such as:
@@ -50,21 +50,21 @@ Contextual filtering allows users to isolate specific customers or time periods 
 
 ![Alt text](Screenshots/Customer_Detail.png)
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Power BI Desktop
 - Power Query for data cleaning and transformation
 - DAX for calculated measures and KPIs
 - Interactive visuals including maps, bar charts, line charts, and slicers
 
 
-## 🚀 How to Use This Dashboard
+## How to Use This Dashboard
 - Download the .pbix file from the repository.
 - Open it in Power BI Desktop.
 - Interact with slicers, filters, and visuals to explore the data.
 - Use contextual filtering to drill into specific products, customers, or regions.
 No additional setup is required unless you want to connect your own data source.
 
-## 📈 Key Insights Enabled by This Dashboard
+## Key Insights Enabled by This Dashboard
 - Identify top‑performing products and categories
 - Understand geographic sales distribution
 - Monitor return rates and detect product quality issues
